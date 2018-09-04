@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DatabaseProject</string>
+    <string name="error_message_first_name">Enter Your First Name</string>
+    <string name="error_message_last_name">Enter Your Last Name</string>
+    <string name="error_message_email">Enter Email Id</string>
+    <string name="error_message_password">Enter Your Password</string>
+    <string name="success_message">Registration Successfull</string>
+    <string name="error_email_exists">Email Already Exist</string>
+    <string name="error_valid_email_password"><![CDATA[Enter Valid Email & Password]]></string>
+</resources>
